@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1481314811 source:c:\users\win8\desktop\uni\2nd year\2nd semester\cs202\hw\hw4\dothrakidictionary(codeblocks)\main.cpp
+	"AVL.h"
+	<fstream>
+	<sstream>
+
+1481314773 c:\users\win8\desktop\uni\2nd year\2nd semester\cs202\hw\hw4\dothrakidictionary(codeblocks)\avl.h
+	"TreeNode.h"
+
+1481314786 c:\users\win8\desktop\uni\2nd year\2nd semester\cs202\hw\hw4\dothrakidictionary(codeblocks)\treenode.h
+	<iostream>
+	<string>
+
+1481314781 source:c:\users\win8\desktop\uni\2nd year\2nd semester\cs202\hw\hw4\dothrakidictionary(codeblocks)\treenode.cpp
+	"TreeNode.h"
+
